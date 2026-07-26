@@ -14,19 +14,19 @@ The project was conducted in an isolated environment using **Kali Linux**, **Met
 
 ## 🖥️ Lab Environment
 
--💻 Attacker Machine | Kali Linux
--🎯 Target Machine | Metasploitable 2
--🖥️ Virtualization | VMware Workstation
+- 💻 Attacker Machine | Kali Linux
+- 🎯 Target Machine | Metasploitable 2
+- 🖥️ Virtualization | VMware Workstation
 
 ---
 
 ## 🛠️ Tools Used
 
--🔍 Nmap
--📡 Wireshark
--🌐 FTP Client
--🔐 SSH
--📊 Netstat
+- 🔍 Nmap
+- 📡 Wireshark
+- 🌐 FTP Client
+- 🔐 SSH
+- 📊 Netstat
 
 ---
 
