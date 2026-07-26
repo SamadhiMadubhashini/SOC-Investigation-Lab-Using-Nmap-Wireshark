@@ -59,11 +59,11 @@ The project was conducted in an isolated environment using **Kali Linux**, **Met
 
 ## 🔍  Key Findings
 
-⚠️ Anonymous FTP login was enabled.
-⚠️ Weak SSH configuration was identified.
-⚠️ Multiple network services were exposed.
-⚠️ Outdated operating system components were detected.
-⚠️ Network traffic analysis revealed ICMP, TCP SYN, SYN/ACK and RST packets.
+- ⚠️ Anonymous FTP login was enabled.
+- ⚠️ Weak SSH configuration was identified.
+- ⚠️ Multiple network services were exposed.
+- ⚠️ Outdated operating system components were detected.
+- ⚠️ Network traffic analysis revealed ICMP, TCP SYN, SYN/ACK and RST packets.
 
 ---
 
