@@ -71,6 +71,19 @@ The project focuses on network reconnaissance, service enumeration, vulnerabilit
 
 ---
 
+## Project Documentation
+
+📄 Project Report:
+- SOC Investigation Lab Report PDF
+
+📸 Evidence Screenshots:
+- All Screenshots of project
+
+⌨️ Command References:
+- Text files of commands
+
+---
+
 ## Disclaimer
 
 This project was performed in an isolated virtual lab environment for educational purposes only.
