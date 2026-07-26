@@ -9,6 +9,7 @@
 This project simulates a basic **Security Operations Center (SOC)** investigation using a virtual lab environment. It demonstrates how security analysts perform network reconnaissance, identify vulnerabilities, analyse network traffic, and document security findings using industry-standard tools.
 
 The project was conducted in an isolated environment using **Kali Linux**, **Metasploitable 2**, **Nmap**, and **Wireshark** to gain practical experience in network security and incident investigation.
+
 ---
 
 ## 🖥️ Lab Environment
